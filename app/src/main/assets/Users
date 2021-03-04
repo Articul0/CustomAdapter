@@ -1,0 +1,10 @@
+[
+  { "name": "Petya", "phoneNumber":  "123", "sex": "MAN"},
+  { "name": "Vasya", "phoneNumber": "256", "sex": "MAN"},
+  { "name": "Valia", "phoneNumber": "444", "sex": "WOMAN"},
+  { "name": "UFO", "phoneNumber": "333", "sex": "UNKNOWN"},
+  { "name": "Petya", "phoneNumber":  "123", "sex": "MAN"},
+  { "name": "Vasya", "phoneNumber": "256", "sex": "MAN"},
+  { "name": "Valia", "phoneNumber": "444", "sex": "WOMAN"},
+  { "name": "UFO", "phoneNumber": "333", "sex": "UNKNOWN"}
+]
